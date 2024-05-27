@@ -1,0 +1,8 @@
+*.o
+erfahrungen
+*.txt
+SeedTest
+LogicTest
+GameTest
+GridTest
+2048Main
